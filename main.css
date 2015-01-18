@@ -26,11 +26,24 @@ a:active {
 
 /* LAYOUT */
 .background-content {
-  background-image: url("images/layout/background4content.png");
-  width: 100%; }
+  background-image: url("images/layout/background4content2.png");
+  background-repeat: repeat-y;
+  background-size: contain; }
+
+.nav-background-content {
+  background-image: url("images/layout/background4content3.png");
+  background-repeat: no-repeat; }
 
 .main-content {
   position: fixed; }
+
+.desktop-nav {
+  z-index: 5; }
+
+#links {
+  margin-top: 75px;
+  margin-left: 50px;
+  width: 910px; }
 
 /* MODULE */
 /* STATE */
