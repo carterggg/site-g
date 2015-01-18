@@ -5,6 +5,19 @@ $main-font: 'courier_primeregular';
 
 /* BASE */ 
 
+* {
+	margin: auto;
+	padding: auto;
+}
+
+body {
+	background-color: #f1cba6;
+	/* 
+	background-image: url('images/layout/background.png');
+	background-repeat: repeat;
+	*/
+}
+
 
 
 p, h1, h2, h3, h4, h5, h6 {
@@ -35,6 +48,15 @@ a:active {
 
 
 /* LAYOUT */ 
+
+.background-content {
+	background-image: url("images/layout/background4content.png");
+	width: 100%;
+}
+
+.main-content {
+	position: fixed;
+}
 
 
 /* Video EMBed responsive code */
