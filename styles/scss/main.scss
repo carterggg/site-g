@@ -50,10 +50,16 @@ a:active {
 	background-repeat: no-repeat;
 }
 
+.footer-background-content {
+	background-image: url("images/layout/footerbackground.png");	
+	background-repeat: no-repeat;
+	height: 1000%;
+}
+
 .main-content {
 	position: fixed;
 }
-
+ 
 .desktop-nav {
 	z-index: 5;	
 }

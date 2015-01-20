@@ -34,6 +34,11 @@ a:active {
   background-image: url("images/layout/background4content3.png");
   background-repeat: no-repeat; }
 
+.footer-background-content {
+  background-image: url("images/layout/footerbackground.png");
+  background-repeat: no-repeat;
+  height: 1000%; }
+
 .main-content {
   position: fixed; }
 
