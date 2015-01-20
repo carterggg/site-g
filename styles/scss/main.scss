@@ -12,7 +12,7 @@ $main-font: 'courier_primeregular';
 
 body {
 	background-color: #f1cba6;
-	background-image: url('images/layout/background.png');
+	background-image: url('images/layout/background3.jpg');
 	background-repeat: repeat;
 }
 
@@ -43,6 +43,8 @@ a:active {
 	background-image: url("images/layout/background4content2.png");
 	background-repeat: repeat-y;
 	background-size: contain;
+	overflow: scroll;
+	height:1100px;
 }
 
 .nav-background-content {
@@ -53,7 +55,6 @@ a:active {
 .footer-background-content {
 	background-image: url("images/layout/footerbackground.png");	
 	background-repeat: no-repeat;
-	height: 1000%;
 }
 
 .main-content {
@@ -66,9 +67,16 @@ a:active {
 
 #links {
 	margin-top: 75px;
-	margin-left: 50px;
-	width:910px;
-	
+	margin-left: 0px;
+	padding-left:42px;
+	padding-top:25px;
+	width:100%;
+}
+
+.nav-desktop-position {
+	padding-top:96px;
+	padding-left:30px;
+	height:100%;
 }
 
 /* MODULE */ 

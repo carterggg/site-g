@@ -284,6 +284,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/layout\/background3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 384099,
+		"inputAbbreviatedPath": "\/images\/layout\/background3.jpg",
+		"outputAbbreviatedPath": "\/images\/layout\/background3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/layout\/background4content.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -339,6 +350,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/layout\/footerbackground.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.06308e+06,
+		"inputAbbreviatedPath": "\/images\/layout\/footerbackground.png",
+		"outputAbbreviatedPath": "\/images\/layout\/footerbackground.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/layout\/home.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -368,17 +390,6 @@
 		"initialSize": 40653,
 		"inputAbbreviatedPath": "\/images\/layout\/random.png",
 		"outputAbbreviatedPath": "\/images\/layout\/random.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/layout\/random2.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2.06308e+06,
-		"inputAbbreviatedPath": "\/images\/layout\/random2.png",
-		"outputAbbreviatedPath": "\/images\/layout\/random2.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
