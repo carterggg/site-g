@@ -262,6 +262,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/layout\/background-box.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 622211,
+		"inputAbbreviatedPath": "\/images\/layout\/background-box.png",
+		"outputAbbreviatedPath": "\/images\/layout\/background-box.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/layout\/background.png": {
 		"fileType": 32768,
 		"ignore": 0,
