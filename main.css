@@ -6,7 +6,8 @@
 body {
   background-color: #f1cba6;
   background-image: url("images/layout/background-box.png");
-  background-repeat: repeat; }
+  background-repeat: repeat;
+  font-family: "motion_controlbold"; }
 
 /* unvisited link */
 a:link {
@@ -27,7 +28,7 @@ a:active {
 /* LAYOUT */
 .background-content {
   background-image: url("images/layout/background4content2.png");
-  background-repeat: repeat-y;
+  background-repeat: no-repeat;
   background-size: contain;
   overflow: scroll;
   height: 1100px; }

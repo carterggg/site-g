@@ -1,6 +1,6 @@
 $main-color: black;
 $main-color2: white;
-$main-font: 'courier_primeregular';
+$main-font: 'motion_controlbold';
 
 
 /* BASE */ 
@@ -14,6 +14,7 @@ body {
 	background-color: #f1cba6;
 	background-image: url('images/layout/background-box.png');
 	background-repeat: repeat;
+	font-family:$main-font;
 }
 
 /* unvisited link */
@@ -41,10 +42,11 @@ a:active {
 
 .background-content {
 	background-image: url("images/layout/background4content2.png");
-	background-repeat: repeat-y;
+	background-repeat:no-repeat;
 	background-size: contain;
 	overflow: scroll;
 	height:1100px;
+	
 }
 
 .nav-background-content {
@@ -62,7 +64,8 @@ a:active {
 .main-content {
 	position: fixed;
 }
- 
+
+
 
 #links {
 	margin-top: 75px;
