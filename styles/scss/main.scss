@@ -49,6 +49,19 @@ a:active {
 	
 }
 
+.blank-background-content {
+	background-image: url("images/layout/background4content4.png");
+	background-repeat:repeat-y;
+	background-size: contain;
+	overflow: scroll;
+	height:1100px;	
+	/*
+	border: 2px solid black;
+	outline: 2px solid #edcfa8;
+	box-shadow: 8px 8px 20px black;
+	*/
+}
+
 .nav-background-content {
 	background-image: url("images/layout/background4content3.png");
 	background-repeat: no-repeat;
@@ -84,9 +97,9 @@ a:active {
 
 .services-content {
 	margin-left: 40px;
-	margin-right: 120px;
-	color: white;
-	text-shadow: 2px 2px black;
+	margin-right: 128px;
+	color: #151515;
+	
 }
 
 .align-center {
@@ -94,20 +107,22 @@ a:active {
 }
 
 .header-size {
-	font-size: 6em;
+	font-size: 6vw;
 }
 
 .sub-header-size {
-	font-size: 4.5em;
+	font-size: 4.5vw;
 }
 
 .info-size {
-	font-size: 3em;
+	font-size: 3vw;
 }
 
 .main-info-size {
-	font-size: 2.7em;
+	font-size: 2.7vw;
 }
+
+
 
 /* MODULE */ 
 /* STATE */ 
