@@ -9,6 +9,14 @@ body {
   background-repeat: repeat;
   font-family: "motion_controlbold" !important; }
 
+h3 a {
+  color: black;
+  text-decoration: underline; }
+
+h3 a:hover {
+  color: grey;
+  text-decoration: underline; }
+
 /* unvisited link */
 a:link {
   text-decoration: none; }
@@ -34,16 +42,12 @@ a:active {
   height: 1100px; }
 
 .blank-background-content {
-  background-image: url("images/layout/background4content4.png");
-  background-repeat: repeat-y;
-  background-size: contain;
-  overflow: scroll;
-  height: 1100px;
-  /*
+  background-image: url("images/layout/background4content5.png");
+  background-repeat: repeat;
+  background-size: 100px 100px;
   border: 2px solid black;
   outline: 2px solid #edcfa8;
-  box-shadow: 8px 8px 20px black;
-  */ }
+  box-shadow: 8px 8px 20px black; }
 
 .nav-background-content {
   background-image: url("images/layout/background4content3.png");
@@ -71,9 +75,23 @@ a:active {
   height: 100%; }
 
 .services-content {
+  color: #151515;
   margin-left: 40px;
-  margin-right: 128px;
-  color: #151515; }
+  margin-right: 40px;
+  margin-top: 0px;
+  margin-bottom: 20px; }
+
+.whole-comic-border {
+  -webkit-border-image: url("images/layout/background-box.png") 30 30 round;
+  /* Safari 3.1-5 */
+  -o-border-image: url("images/layout/background-box.png") 30 30 round;
+  /* Opera 11-12.1 */
+  border-image: url("images/layout/background-box.png") 30 30 round;
+  border-image-width: 15px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 8px;
+  margin-right: 8px; }
 
 .align-center {
   text-align: center; }
@@ -89,6 +107,14 @@ a:active {
 
 .main-info-size {
   font-size: 2.7vw; }
+
+.comic-border {
+  border-style: solid;
+  border-width: 0px 0px 15px;
+  -moz-border-image: url("images/layout/background-box.png") 0 0 27 repeat;
+  -webkit-border-image: url("images/layout/background-box.png") 0 0 27 repeat;
+  -o-border-image: url("images/layout/background-box.png") 0 0 27 repeat;
+  border-image: url("images/layout/background-box.png") 0 0 27 repeat; }
 
 /* MODULE */
 /* STATE */
