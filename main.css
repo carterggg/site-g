@@ -97,7 +97,8 @@ a:active {
   text-align: center; }
 
 .header-size {
-  font-size: 6vw; }
+  font-size: 6vw;
+  text-align: center; }
 
 .sub-header-size {
   font-size: 4.5vw; }
@@ -107,6 +108,17 @@ a:active {
 
 .main-info-size {
   font-size: 2.7vw; }
+
+.pay-main-info-size {
+  font-size: 3vw; }
+
+.pay-form-size {
+  width: 50%;
+  align-content: center; }
+
+.pay-header-style {
+  border-bottom: 10px solid black;
+  width: 120px; }
 
 .comic-border {
   border-style: solid;

@@ -84,8 +84,8 @@ if(@$_POST['submitted'])
 			echo '<link rel="stylesheet" href="styles/css/main.css">';
 			echo '<link rel="stylesheet" href="stylesheet.css">';
 			echo '<div class="val-background">';
-			echo '<img src="images/logo/ne-logo.gif">';
-			echo "<h2 class='val-style'>Thank You, N0THING EXTRAVAGANT will get back to you soon.</h2>";
+			echo '<img src="images/layout/titleheader.png">';
+			echo "<h2 class='val-style'>Thank You, Carter Guthrie will get back to you soon.</h2>";
 			echo "<p>Your message has been sent. Below is the information you provided:</p>";
 			echo "<ul>";
 			echo "<li>".$name."</li>";
@@ -95,7 +95,6 @@ if(@$_POST['submitted'])
 			echo "<br>";
 			echo "<a href=\"".REDIRECT_URL ."\">Go Back to Home Page</a>";
 			echo "<br>";
-			echo "<a href='http://boltzonboard.com'>Recycled Skateboard Jewelry</a>";
 			echo '</div>';
 			exit();
 		}

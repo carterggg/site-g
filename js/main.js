@@ -6,6 +6,7 @@ $(".toggle").click(function () {
 
 
 
+
 // Toggle for Contact Page 
 /* 
 $(".toggle-nav").click(function () {
