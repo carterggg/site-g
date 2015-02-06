@@ -16,6 +16,24 @@ body {
 	background-repeat: repeat;
 	font-family: $main-font !important;
 }
+
+nav ul li {
+	color: black;
+	text-decoration: none;
+	display: inline;
+	list-style: none;
+	padding: 10px;
+	font-size: 3vw;
+}
+
+nav {
+	margin-top: 105px;
+}
+
+ul {
+	text-align: center;
+}
+
 h3 a {
 	color:black;
 	text-decoration: underline;
@@ -159,6 +177,15 @@ a:active {
 	-o-border-image: url('images/layout/background-box.png') 0 0 27 repeat;
 	border-image: url('images/layout/background-box.png') 0 0 27 repeat;
 }
+
+.footer-h1-style {
+	margin-left: 45px;
+	margin-top: 40px;
+	font-size: 2vw;
+	color:$main-color;
+}
+
+
 
 /* MODULE */ 
 /* STATE */ 
