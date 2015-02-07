@@ -14,7 +14,8 @@ nav ul li {
   text-decoration: none;
   display: inline;
   list-style: none;
-  padding: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
   font-size: 3vw; }
 
 nav {
@@ -146,7 +147,17 @@ a:active {
   margin-left: 45px;
   margin-top: 40px;
   font-size: 2vw;
-  color: black; }
+  color: black;
+  width: 410px;
+  padding-left: 10px; }
+
+.footer-nav-style {
+  background-image: url("images/layout/nav-footerbackground.png");
+  background-repeat: repeat; }
+
+.footer-background-h1-style:hover {
+  background-image: url("images/layout/nav-footerbackground.png");
+  background-repeat: repeat; }
 
 /* MODULE */
 /* STATE */
