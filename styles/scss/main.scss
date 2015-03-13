@@ -125,6 +125,14 @@ a:active {
 	margin-bottom: 20px;
 }
 
+.mobile-services-content {
+	color: #151515;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 0px;
+	margin-bottom: 20px;
+}
+
 .whole-comic-border {
 	-webkit-border-image:url('images/layout/background-box.png') 30 30 round; /* Safari 3.1-5 */
     -o-border-image:url('images/layout/background-box.png') 30 30 round; /* Opera 11-12.1 */
@@ -137,28 +145,29 @@ a:active {
 }
 
 .align-center {
-	text-align: center;	
+	text-align: center;
+	margin: auto;
 }
 
 .header-size {
-	font-size: 6vw;
+	font-size: 6em;
 	text-align: center;
 }
 
 .sub-header-size {
-	font-size: 4.5vw;
+	font-size: 4em;
 }
 
 .info-size {
-	font-size: 3vw;
+	font-size: 3em;
 }
 
 .main-info-size {
-	font-size: 2.7vw;
+	font-size: 2.7em;
 }
 
 .pay-main-info-size {
-	font-size:3vw;
+	font-size:3em;
 }
 
 .pay-form-size {

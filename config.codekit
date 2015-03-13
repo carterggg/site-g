@@ -77,15 +77,6 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/contact.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/contact.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/contact.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -357,17 +348,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/layout\/footerbackground copy.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 681206,
-		"inputAbbreviatedPath": "\/images\/layout\/footerbackground copy.png",
-		"outputAbbreviatedPath": "\/images\/layout\/footerbackground copy.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/images\/layout\/footerbackground.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -375,6 +355,17 @@
 		"initialSize": 674014,
 		"inputAbbreviatedPath": "\/images\/layout\/footerbackground.png",
 		"outputAbbreviatedPath": "\/images\/layout\/footerbackground.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/header-mobile-sqaure.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 352240,
+		"inputAbbreviatedPath": "\/images\/layout\/header-mobile-sqaure.png",
+		"outputAbbreviatedPath": "\/images\/layout\/header-mobile-sqaure.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -408,6 +399,28 @@
 		"initialSize": 159622,
 		"inputAbbreviatedPath": "\/images\/layout\/mobile-header2.png",
 		"outputAbbreviatedPath": "\/images\/layout\/mobile-header2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/nav-footerbackground.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16080,
+		"inputAbbreviatedPath": "\/images\/layout\/nav-footerbackground.png",
+		"outputAbbreviatedPath": "\/images\/layout\/nav-footerbackground.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/pay-image.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14224,
+		"inputAbbreviatedPath": "\/images\/layout\/pay-image.png",
+		"outputAbbreviatedPath": "\/images\/layout\/pay-image.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
