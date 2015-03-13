@@ -1,10 +1,10 @@
 <?php
 	
 	// * IMPORTANT * Set your email information here
-	define('DESTINATION_EMAIL','guthrie.sk8tarded@gmail.com');
-	define('MESSAGE_SUBJECT','Graphic and Web Design Job');
-	define('REPLY_TO', 'guthrie.sk8tarded@gmail.com');
-	define('FROM_ADDRESS', 'guthrie.sk8tarded@gmail.com');
+	define('DESTINATION_EMAIL','carterthedesigner@gmail.com');
+	define('MESSAGE_SUBJECT','Graphic Design Job');
+	define('REPLY_TO', 'carterthedesigner@gmail.com');
+	define('FROM_ADDRESS', 'carterthedesigner@gmail.com');
 	define('REDIRECT_URL', 'index.html');
 	
 	require_once('validation.php');
@@ -89,11 +89,11 @@
 			<br><br>
 						<?php include('inc/form.php'); ?>
 						
-						<br><br><br>
+						<br><br>
 
 		</div>	
 		</div>	
-		</div>
+		
 		
 
 <!-- DESKTOP NAV -->
