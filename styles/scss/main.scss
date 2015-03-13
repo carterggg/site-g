@@ -192,7 +192,7 @@ a:active {
 .footer-h1-style {
 	margin-left: 45px;
 	margin-top: 40px;
-	font-size: 2vw;
+	font-size: 2em;
 	color:$main-color;
 	width:410px;
 	padding-left:10px;
@@ -220,10 +220,12 @@ input,textarea {
 	margin-bottom: 15px;
 	width: 100%;
 	border: black solid 1px;
+	font-size: 2.5em !important;
 }
 
 label {
 	margin-bottom: 0px;	
+	font-size: 2.5em;
 }
 
 .error{

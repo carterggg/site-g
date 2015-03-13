@@ -50,7 +50,7 @@
 		<div class="col-xs-12">
 			<a href="index.html" title="Graphic Design: Carter Guthrie"><img src="images/layout/titleheader.png" alt="Graphic Design: Carter Guthrie" class="img-responsive hidden-xs"></a>
 				
-			<a href="index.html" title="Graphic Design: Carter Guthrie"><img src="images/layout/mobile-header2.png" alt="Graphic Design: Carter Guthrie" class="img-responsive hidden-sm hidden-md hidden-lg"></a>
+			<a href="index.html" title="Graphic Design: Carter Guthrie"><img src="images/layout/header-mobile-sqaure.png" alt="Graphic Design: Carter Guthrie" class="img-responsive hidden-sm hidden-md hidden-lg"></a>
 			<br class="hidden-sm hidden-md hidden-lg">
 			
 		</div>
@@ -59,30 +59,37 @@
 
 	<div class="row">
 		<div class="hidden-xs col-sm-1"></div>
-			<div class="col-xs-12 col-sm-8 blank-background-content">
+			<div class="hidden-xs col-sm-8 blank-background-content">
 				<div class="whole-comic-border">
 				<div class="services-content">
 					<br>
 					<h1 class="align-center header-size"><u>Contact</u></h1>
 						<br>
-			<h3 class="main-info-size">Need a quote or have a general question? Please fill out the form below or contact me at <u>Guthrie.sk8tarded@gmail.com</u></h3>
+			<h3 class="main-info-size">Need a quote or have a general question?</h3>
+					<h3 class="main-info-size">Please fill out the form below or contact me at <u>Carterthedesigner@gmail.com</u></h3>
+			<br><br>
+						<?php include('inc/form.php'); ?>
+						
+						<br><br><br>
+		
+
+		</div>	
+		</div>	
+		</div>
+		
+<!-- Mobile Content -->
+	<div class="col-xs-12 hidden-sm hidden-md hidden-lg blank-background-content">
+				<div class="mobile-services-content">
+					<br>
+					<h1 class="align-center header-size"><u>Contact</u></h1>
+						<br>
+			<h3 class="main-info-size">Need a quote or have a general question?</h3>
+					<h3 class="main-info-size">Please fill out the form below:</h3>
 			
 			<br><br>
 						<?php include('inc/form.php'); ?>
-		
-			<div class="row">
-				<div class="col-xs-12 col-sm-6">
-					
-					<h2 class="sub-header-size">Carter Guthrie</h2>
-						<h3 class="info-size">- Guthrie.sk8tarded@gmail.com</h3>
-						<h3 class="info-size">- AA Degree in Graphic and Web Design from <a href="" title="The Art Institute of Atlanta">The Art Instiute of Atlanta.</a></h3>
-						<h3 class="info-size"><a href="https://www.linkedin.com/pub/carter-guthrie/83/951/646" title="Graphic Design with Carter Guthrie, Linkedin site"><u>Linkedin</u></a></h3>
-				</div>
-				
-				<div class="col-xs-12 col-sm-6">
-					<img src="" alt="Graphic Design with Carter Guthrie" class="img-responsive">
-				</div>
-			</div>
+						
+						<br><br><br>
 
 		</div>	
 		</div>	
