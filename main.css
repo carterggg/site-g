@@ -32,6 +32,10 @@ h3 a:hover {
   color: grey;
   text-decoration: underline; }
 
+h1 {
+  font-family: "motion_controlbold" !important;
+  color: black !important; }
+
 /* unvisited link */
 a:link {
   text-decoration: none; }
@@ -53,8 +57,12 @@ a:active {
   background-image: url("images/layout/background4content2.png");
   background-repeat: no-repeat;
   background-size: contain;
-  overflow: scroll;
   height: 1100px; }
+
+.mobile-background-content {
+  background-image: url("images/layout/background4content2.png");
+  background-repeat: repeat;
+  background-size: contain; }
 
 .blank-background-content {
   background-image: url("images/layout/background4content5.png");
@@ -70,7 +78,7 @@ a:active {
   height: 650px; }
 
 .footer-background-content {
-  background-image: url("images/layout/footerbackground.png");
+  background-image: url("images/layout/footer-image.png");
   background-repeat: no-repeat;
   width: 100%; }
 
@@ -78,9 +86,9 @@ a:active {
   position: fixed; }
 
 #links {
-  margin-top: 75px;
+  margin-top: 20px;
   margin-left: 0px;
-  padding-left: 42px;
+  padding-left: 25px;
   padding-top: 25px;
   width: 100%; }
 
@@ -152,20 +160,26 @@ a:active {
   border-image: url("images/layout/background-box.png") 0 0 27 repeat; }
 
 .footer-h1-style {
-  margin-left: 45px;
-  margin-top: 40px;
   font-size: 2em;
   color: black;
   width: 410px;
   padding-left: 10px; }
 
+.footer-h1-style a {
+  color: black; }
+
+.footer-h1-style a:hover {
+  color: black; }
+
 .footer-nav-style {
   background-image: url("images/layout/nav-footerbackground.png");
-  background-repeat: repeat; }
+  background-repeat: repeat;
+  font-size: 25px; }
 
 .footer-background-h1-style:hover {
   background-image: url("images/layout/nav-footerbackground.png");
-  background-repeat: repeat; }
+  background-repeat: repeat;
+  width: 240px; }
 
 /* MODULE */
 /* STATE */

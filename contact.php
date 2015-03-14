@@ -125,7 +125,7 @@
 					<a href="" title="Web Design with Carter Guthrie"><li class="footer-nav-style">WEB DESIGN</li></a>
 				</ul>
 			</nav>
-			  <h1 class="footer-h1-style footer-background-h1-style">Graphic Design: Carter Guthrie 2015 ©</h1>
+			  <h1 class="footer-h1-style footer-background-h1-style"><a href="" title="">Carter Guthrie 2015 ©</a></h1>
 			
 		
 			<br>

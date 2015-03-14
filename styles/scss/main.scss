@@ -45,6 +45,11 @@ h3 a:hover {
 	text-decoration: underline;
 }
 
+h1 {
+	font-family: $main-font !important;
+	color: $main-color !important;
+}
+
 /* unvisited link */
 a:link {
 	text-decoration: none;
@@ -71,9 +76,13 @@ a:active {
 	background-image: url("images/layout/background4content2.png");
 	background-repeat:no-repeat;
 	background-size: contain;
-	overflow: scroll;
 	height:1100px;
-	
+}
+
+.mobile-background-content {
+	background-image: url("images/layout/background4content2.png");
+	background-repeat:repeat;
+	background-size: contain;
 }
 
 .blank-background-content {
@@ -93,7 +102,7 @@ a:active {
 }
 
 .footer-background-content {
-	background-image: url("images/layout/footerbackground.png");	
+	background-image: url("images/layout/footer-image.png");	
 	background-repeat: no-repeat;
 	width: 100%;
 }
@@ -103,9 +112,9 @@ a:active {
 }
 
 #links {
-	margin-top: 75px;
+	margin-top: 20px;
 	margin-left: 0px;
-	padding-left:42px;
+	padding-left:25px;
 	padding-top:25px;
 	width:100%;
 }
@@ -190,22 +199,30 @@ a:active {
 }
 
 .footer-h1-style {
-	margin-left: 45px;
-	margin-top: 40px;
 	font-size: 2em;
 	color:$main-color;
 	width:410px;
 	padding-left:10px;
 }
 
+.footer-h1-style a {
+	color: $main-color;
+}
+
+.footer-h1-style a:hover {
+	color: $main-color;
+}
+
 .footer-nav-style {
 	background-image: url("images/layout/nav-footerbackground.png");
 	background-repeat: repeat;
+	font-size: 25px;
 }
 
 .footer-background-h1-style:hover {
 	background-image: url("images/layout/nav-footerbackground.png");
 	background-repeat: repeat;
+	width: 240px;
 }
 
 

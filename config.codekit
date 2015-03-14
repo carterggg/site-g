@@ -348,6 +348,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/layout\/footer-image.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 681206,
+		"inputAbbreviatedPath": "\/images\/layout\/footer-image.png",
+		"outputAbbreviatedPath": "\/images\/layout\/footer-image.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/layout\/footerbackground.png": {
 		"fileType": 32768,
 		"ignore": 0,
