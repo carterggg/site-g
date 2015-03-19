@@ -82,6 +82,14 @@ a:active {
   background-repeat: no-repeat;
   width: 100%; }
 
+.mobile-footer-background-content {
+  background-image: url("images/layout/footer-image.png");
+  background-repeat: repeat; }
+
+.footer-layout ul {
+  padding-left: 15px;
+  text-align: center; }
+
 .main-content {
   position: fixed; }
 
@@ -185,6 +193,18 @@ a:active {
 .footer-h1-style a:hover {
   color: black; }
 
+.mobile-footer-h1-style {
+  font-size: 2em;
+  color: black;
+  width: 410px;
+  padding-right: 45px; }
+
+.mobile-footer-h1-style a {
+  color: black; }
+
+.mobile-footer-h1-style a:hover {
+  color: black; }
+
 .footer-nav-style {
   background-image: url("images/layout/nav-footerbackground.png");
   background-repeat: repeat;
@@ -197,9 +217,7 @@ a:active {
   color: black; }
 
 .footer-background-h1-style:hover {
-  background-image: url("images/layout/nav-footerbackground.png");
-  background-repeat: repeat;
-  width: 240px; }
+  padding-right: 45px; }
 
 /* MODULE */
 /* STATE */

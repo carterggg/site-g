@@ -107,6 +107,17 @@ a:active {
 	width: 100%;
 }
 
+.mobile-footer-background-content {
+	background-image: url("images/layout/footer-image.png");	
+	background-repeat: repeat;
+}
+
+.footer-layout ul {
+	padding-left: 15px;
+	text-align: center;
+	
+}
+
 .main-content {
 	position: fixed;
 }
@@ -229,6 +240,21 @@ a:active {
 	color: $main-color;
 }
 
+.mobile-footer-h1-style {
+	font-size: 2em;
+	color:$main-color;
+	width: 410px;
+	padding-right: 45px;
+}
+
+.mobile-footer-h1-style a {
+	color: $main-color;
+}
+
+.mobile-footer-h1-style a:hover {
+	color: $main-color;
+}
+
 .footer-nav-style {
 	background-image: url("images/layout/nav-footerbackground.png");
 	background-repeat: repeat;
@@ -244,9 +270,7 @@ a:active {
 }
 
 .footer-background-h1-style:hover {
-	background-image: url("images/layout/nav-footerbackground.png");
-	background-repeat: repeat;
-	width: 240px;
+	padding-right: 45px;
 }
 
 
