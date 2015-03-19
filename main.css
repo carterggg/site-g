@@ -78,7 +78,7 @@ a:active {
   height: 650px; }
 
 .footer-background-content {
-  background-image: url("images/layout/footer-image.png");
+  background-image: url("images/layout/footerbackground.png");
   background-repeat: no-repeat;
   width: 100%; }
 
@@ -189,6 +189,12 @@ a:active {
   background-image: url("images/layout/nav-footerbackground.png");
   background-repeat: repeat;
   font-size: 25px; }
+
+.footer-nav-style a {
+  color: black; }
+
+.footer-nav-style a:hover {
+  color: black; }
 
 .footer-background-h1-style:hover {
   background-image: url("images/layout/nav-footerbackground.png");
