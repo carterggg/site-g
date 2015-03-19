@@ -27,6 +27,16 @@ nav ul li {
 	font-size: 3vw;
 }
 
+ul li {
+	color: black;
+	text-decoration: none;
+	display: inline;
+	list-style: none;
+	font-size: 3vw;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
 nav {
 	margin-top: 105px;
 }
@@ -269,9 +279,7 @@ a:active {
 	color: $main-color;
 }
 
-.footer-background-h1-style:hover {
-	padding-right: 45px;
-}
+
 
 
 /* MODULE */ 
@@ -299,4 +307,16 @@ label {
 
 form{
 	width:100%;
+}
+
+
+/* Smartphones (portrait and landscape) ----------- */
+@media (min-width: 0px) and (max-width: 1600px) {
+	
+.background-content {
+	overflow: scroll; 
+}
+	
+	
+	
 }
