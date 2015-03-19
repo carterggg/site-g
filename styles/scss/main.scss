@@ -311,10 +311,14 @@ form{
 
 
 /* Smartphones (portrait and landscape) ----------- */
-@media (min-width: 0px) and (max-width: 1600px) {
+@media (min-width: 0px) and (max-width: 1300px) {
 	
 .background-content {
 	overflow: scroll; 
+}
+	
+#links a img {
+	width:200px;
 }
 	
 	
