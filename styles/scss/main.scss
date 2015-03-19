@@ -114,8 +114,16 @@ a:active {
 #links {
 	margin-top: 20px;
 	margin-left: 0px;
-	padding-left:25px;
-	padding-top:25px;
+	padding-left:45px;
+	padding-top: 3px;
+	width:100%;
+}
+
+#links-designs {
+	margin-top: 20px;
+	margin-left: 0px;
+	padding-left: 25px;
+	padding-top: 3px;
 	width:100%;
 }
 
@@ -161,6 +169,14 @@ a:active {
 .header-size {
 	font-size: 6em;
 	text-align: center;
+}
+
+.main-header-size {
+	font-size: 6em;
+	text-align: center;
+	color: #EFC380 !important;
+	text-shadow: 2px 1px 3px #7B9895, 0 0 .5em black, 0 0 0.1em black;
+    color: white;
 }
 
 .sub-header-size {

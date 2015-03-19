@@ -95,6 +95,28 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/images\/businesscards\/cg-bc.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.3702e+06,
+		"inputAbbreviatedPath": "\/images\/businesscards\/cg-bc.jpg",
+		"outputAbbreviatedPath": "\/images\/businesscards\/cg-bc.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/businesscards\/qs-bc.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 186410,
+		"inputAbbreviatedPath": "\/images\/businesscards\/qs-bc.jpg",
+		"outputAbbreviatedPath": "\/images\/businesscards\/qs-bc.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/graphics\/10.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -465,6 +487,193 @@
 		"initialSize": 504072,
 		"inputAbbreviatedPath": "\/images\/layout\/titleheader.png",
 		"outputAbbreviatedPath": "\/images\/layout\/titleheader.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logos\/22.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 422468,
+		"inputAbbreviatedPath": "\/images\/logos\/22.jpg",
+		"outputAbbreviatedPath": "\/images\/logos\/22.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logos\/bob-1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 200062,
+		"inputAbbreviatedPath": "\/images\/logos\/bob-1.png",
+		"outputAbbreviatedPath": "\/images\/logos\/bob-1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logos\/bob-2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44510,
+		"inputAbbreviatedPath": "\/images\/logos\/bob-2.png",
+		"outputAbbreviatedPath": "\/images\/logos\/bob-2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logos\/brightest-ideas-consulting-01-02.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 274825,
+		"inputAbbreviatedPath": "\/images\/logos\/brightest-ideas-consulting-01-02.png",
+		"outputAbbreviatedPath": "\/images\/logos\/brightest-ideas-consulting-01-02.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logos\/brokenboardartshow-01.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 85340,
+		"inputAbbreviatedPath": "\/images\/logos\/brokenboardartshow-01.png",
+		"outputAbbreviatedPath": "\/images\/logos\/brokenboardartshow-01.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logos\/cema-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 172342,
+		"inputAbbreviatedPath": "\/images\/logos\/cema-1.jpg",
+		"outputAbbreviatedPath": "\/images\/logos\/cema-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logos\/cema-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 326855,
+		"inputAbbreviatedPath": "\/images\/logos\/cema-2.jpg",
+		"outputAbbreviatedPath": "\/images\/logos\/cema-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logos\/crywolf.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 440892,
+		"inputAbbreviatedPath": "\/images\/logos\/crywolf.png",
+		"outputAbbreviatedPath": "\/images\/logos\/crywolf.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logos\/dreamwood.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 578396,
+		"inputAbbreviatedPath": "\/images\/logos\/dreamwood.png",
+		"outputAbbreviatedPath": "\/images\/logos\/dreamwood.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logos\/entergalatic-express-02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 202964,
+		"inputAbbreviatedPath": "\/images\/logos\/entergalatic-express-02.jpg",
+		"outputAbbreviatedPath": "\/images\/logos\/entergalatic-express-02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logos\/locked-away-safe-savings-02.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3.05777e+06,
+		"inputAbbreviatedPath": "\/images\/logos\/locked-away-safe-savings-02.png",
+		"outputAbbreviatedPath": "\/images\/logos\/locked-away-safe-savings-02.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logos\/m00n-logo-07.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25457,
+		"inputAbbreviatedPath": "\/images\/logos\/m00n-logo-07.png",
+		"outputAbbreviatedPath": "\/images\/logos\/m00n-logo-07.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logos\/qs.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 688177,
+		"inputAbbreviatedPath": "\/images\/logos\/qs.jpg",
+		"outputAbbreviatedPath": "\/images\/logos\/qs.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logos\/radio-06.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 777850,
+		"inputAbbreviatedPath": "\/images\/logos\/radio-06.png",
+		"outputAbbreviatedPath": "\/images\/logos\/radio-06.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logos\/stranded-in-saturn-01.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.09118e+06,
+		"inputAbbreviatedPath": "\/images\/logos\/stranded-in-saturn-01.png",
+		"outputAbbreviatedPath": "\/images\/logos\/stranded-in-saturn-01.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logos\/text-toppings-text-in-pizza-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 160232,
+		"inputAbbreviatedPath": "\/images\/logos\/text-toppings-text-in-pizza-01.jpg",
+		"outputAbbreviatedPath": "\/images\/logos\/text-toppings-text-in-pizza-01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logos\/worldstarbeauty-logo-sk8tardedesigns-04.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 667870,
+		"inputAbbreviatedPath": "\/images\/logos\/worldstarbeauty-logo-sk8tardedesigns-04.jpg",
+		"outputAbbreviatedPath": "\/images\/logos\/worldstarbeauty-logo-sk8tardedesigns-04.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -864,7 +1073,7 @@
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
 	"displayValue": "site-g",
-	"displayValueWasSetByUser": 0,
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "globe_darkGray"
 	},
 "projectSettings": {

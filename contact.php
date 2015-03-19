@@ -37,7 +37,7 @@
 					<a href="index.html"><img src="images/layout/home.png" alt="Graphic Design: Carter Guthrie. Home Page" class="img-responsive desktop-nav" width="180px"></a>
 					<a href="services.html"><img src="images/layout/services.png" alt="Graphic Design: Carter Guthrie. Services Page" class="img-responsive desktop-nav" width="180px"></a>
 					<a href="designs.html"><img src="images/layout/designs.png" alt="Graphic Design: Carter Guthrie. Designs Page" class="img-responsive desktop-nav" width="180px"></a>
-					<a href="contact.html"><img src="images/layout/contact.png" alt="Graphic Design: Carter Guthrie. Contact Page" class="img-responsive desktop-nav" width="180px"></a>
+					<a href="contact.php"><img src="images/layout/contact.png" alt="Graphic Design: Carter Guthrie. Contact Page" class="img-responsive desktop-nav" width="180px"></a>
 					<a href="pay.html"><img src="images/layout/pay.png" alt="Graphic Design: Carter Guthrie. Pay Page" class="img-responsive desktop-nav" width="180px"></a>
 				</div>
 <!-- END OF MOBILE NAV -->			
@@ -102,7 +102,7 @@
 			<a href="index.html"><img src="images/layout/home.png" alt="Graphic Design: Carter Guthrie. Home Page" class="img-responsive" width="190px"></a>
 			<a href="services.html"><img src="images/layout/services.png" alt="Graphic Design: Carter Guthrie. Services Page" class="img-responsive" width="190px"></a>
 			<a href="designs.html"><img src="images/layout/designs.png" alt="Graphic Design: Carter Guthrie. Designs Page" class="img-responsive" width="190px"></a>
-			<a href="contact.html"><img src="images/layout/contact.png" alt="Graphic Design: Carter Guthrie. Contact Page" class="img-responsive" width="190px"></a>
+			<a href="contact.php"><img src="images/layout/contact.png" alt="Graphic Design: Carter Guthrie. Contact Page" class="img-responsive" width="190px"></a>
 			<a href="pay.html"><img src="images/layout/pay.png" alt="Graphic Design: Carter Guthrie. Pay Page" class="img-responsive" width="190px"></a>
 		</div>
 		</div>
@@ -120,7 +120,7 @@
 					<a href="index.html" title="Graphic Design with Carter Guthrie"><li class="footer-nav-style">HOME</li></a>
 					<a href="services.html" title="Graphic Design with Carter Guthrie"><li class="footer-nav-style">SERVICES</li></a>
 					<a href="designs.html" title="Graphic Design with Carter Guthrie"><li class="footer-nav-style">DESIGNS</li></a>
-					<a href="contact.html" title="Graphic Design with Carter Guthrie"><li class="footer-nav-style">CONTACT</li></a>
+					<a href="contact.php" title="Graphic Design with Carter Guthrie"><li class="footer-nav-style">CONTACT</li></a>
 					<a href="pay.html" title="Graphic Design with Carter Guthrie"><li class="footer-nav-style">PAY</li></a>
 					<a href="" title="Web Design with Carter Guthrie"><li class="footer-nav-style">WEB DESIGN</li></a>
 				</ul>
