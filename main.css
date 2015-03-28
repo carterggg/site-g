@@ -41,7 +41,7 @@ h3 a:hover {
   color: grey;
   text-decoration: underline; }
 
-h1 {
+h1, h2 {
   font-family: "motion_controlbold" !important;
   color: black !important; }
 
