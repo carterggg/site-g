@@ -18,6 +18,7 @@
 </head>
 
 <body>
+<div class="se-pre-con"></div>
 
 <!-- LIGHTBOX controls -->
 <div id="blueimp-gallery" class="blueimp-gallery">
@@ -242,7 +243,10 @@
     								<a href="images/skateboards/surprise.png" title="Surprise Deck Graphic" data-gallery><img src="images/skateboards/surprise.png" width="185" alt="Surprise Deck Graphic">
     								</a>
     								
- 
+ 								<h2 class="sub-header-size">Animations:</h2>
+  									<div class="responsive-vid">
+										<iframe width="560" height="375" src="//www.youtube.com/embed/2zlTA2PaUGA?" frameborder="0" allowfullscreen>				 						</iframe>
+									</div>
    								
     							<br><br><br>
     
@@ -412,6 +416,10 @@
     								<a href="images/skateboards/surprise.png" title="Surprise Deck Graphic" data-gallery><img src="images/skateboards/surprise.png" width="185" alt="Surprise Deck Graphic">
     								</a>
     								
+    								<h2 class="sub-header-size">Animations:</h2>
+  										<div class="responsive-vid">
+											<iframe width="560" height="375" src="//www.youtube.com/embed/2zlTA2PaUGA?" frameborder="0" allowfullscreen>				 						</iframe>
+										</div>
  
     
     <br><br><br><br>
@@ -501,7 +509,17 @@
 	<script src="js/bootstrap-image-gallery.js"></script>
 	<script src="js/main.js"></script>
 	
-	
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.js"></script>
+
+//paste this code under head tag or in a seperate js file.
+	// Wait for window load
+	<script>
+	$(window).load(function() {
+		// Animate loader off screen
+		$(".se-pre-con").fadeOut("slow");;
+	});
+	</script>
 
 
 <!-- END OF jQuery --> 

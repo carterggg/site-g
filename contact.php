@@ -23,6 +23,8 @@
 <link rel="stylesheet" href="styles/css/bootstrap-theme.min.css">
 </head>
 <body>
+<div class="se-pre-con"></div>
+
 <!-- Website content -->
 <div class="container-fluid">
 	
@@ -178,5 +180,19 @@
 	<script src="js/bootstrap-image-gallery.js"></script>
 	<script src="js/main.js"></script>
 <!-- END OF jQuery --> 
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.js"></script>
+
+//paste this code under head tag or in a seperate js file.
+	// Wait for window load
+	<script>
+	$(window).load(function() {
+		// Animate loader off screen
+		$(".se-pre-con").fadeOut("slow");;
+	});
+	</script>
+
+
 </body>
 </html>
