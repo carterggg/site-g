@@ -225,6 +225,9 @@ a:active {
 .footer-nav-style a:hover {
   color: black; }
 
+#nav-toggle-bar {
+  display: none; }
+
 /* Video EMBed responsive code */
 .responsive-vid {
   position: relative;
